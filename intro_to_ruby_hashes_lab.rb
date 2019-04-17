@@ -1,12 +1,14 @@
 def new_hash
 
  	test_hash = Hash.new
+	test_hash
 end
 
 
  	def actor
 
  	actor = {name: "Dwayne The Rock Johnson"}
+	actor
 	end
 
 	def monopoly
